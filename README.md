@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A diligent developer who's willing to learn and do interesting projects.</h3>
 
-- 🔭 I’m currently working on **a simple game mechanic in pygame.**
+- 🔭 I’m currently working on **a simple mechanically RPG metroidvania game.**
 
-- 🌱 I’m currently learning **pygame.**
+- 🌱 I’m currently learning **Godot.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/catso-in-a-box](https://github.com/catso-in-a-box)
 
